@@ -1,4 +1,4 @@
 # the-first-repo
 This is my first repository
 
-Readme.md file has just changed! This file was changed in the local Repo!
+These changes were eliminated in order to resolve the conflict.
